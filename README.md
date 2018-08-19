@@ -1,3 +1,3 @@
 ---------
-database file located in the archive\n
+database file located in the archive, 
 admin page: /admin.php

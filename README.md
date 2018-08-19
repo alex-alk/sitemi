@@ -1,1 +1,2 @@
-# sitemi
+---------
+admin page: /admin.php

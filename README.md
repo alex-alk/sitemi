@@ -1,3 +1,4 @@
 ---------
-database file located in the archive, 
-admin page: /admin.php
+database file : baza.sql, 
+admin page: /admin.php  
+build: build.rar
